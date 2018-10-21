@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/roc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:background="#009"
+            android:text="Rockets from Here"
+            android:textColor="#fff" />
+
+        <RelativeLayout
+            android:id="@+id/l1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q1"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b1" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q1"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Baikonur Cosmodrome"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q2"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b2" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q2"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Cape Canaveral Air Force"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q3"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b3" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q3"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Edwards Air Force Base"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q4"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b4" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q4"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Guiana Space Centre"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q5"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b5" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q5"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Jiuquan Satellite Launch Center"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q6"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b6" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q6"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Kennedy Space Center"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q7"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b7" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q7"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Rocket Lab Launch Complex 1"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q8"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b8" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q8"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Mojave Air and Space Port"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q9"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b9" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q9"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Semnan Space Center"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q10"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b10" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q10"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Taiyuan Satellite Launch Center"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q11"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b11" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q11"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Uchinoura Space Center"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q12"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b12" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q12"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Vandenberg Air Force Base"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q13"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b13" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q13"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Plesetsk Cosmodrome"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q14"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b14" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q14"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Pacific Spaceport Complex – Alaska"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q15"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b15" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q15"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Naval Air Station Point Mugu"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q16"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b16" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q16"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Wallops Flight Facility"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q17"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b17" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q17"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Wenchang Spacecraft Launch Site"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q18"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b18" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q18"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Xichang Satellite Launch Center"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q19"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b19" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q19"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Vostochny Cosmodrome"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/l20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="#009">
+
+            <ImageView
+                android:id="@+id/q20"
+                android:layout_width="330dp"
+                android:layout_height="370dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="16dp"
+                android:padding="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/b20" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q20"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="8dp"
+                android:text="Tanegashima Space Center"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</ScrollView>

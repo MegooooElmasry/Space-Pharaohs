@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.spaceappschallenge.a2018.spacepharaohs">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".R1Activity"
+            android:label="@string/n1" />
+        <activity
+            android:name=".R2Activity"
+            android:label="@string/n2" />
+        <activity
+            android:name=".R3Activity"
+            android:label="@string/n3" />
+        <activity
+            android:name=".R4Activity"
+            android:label="@string/n4" />
+        <activity
+            android:name=".R5Activity"
+            android:label="@string/n5" />
+        <activity
+            android:name=".R6Activity"
+            android:label="@string/n6" />
+        <activity
+            android:name=".R7Activity"
+            android:label="@string/n7" />
+        <activity
+            android:name=".R8Activity"
+            android:label="@string/n8" />
+        <activity
+            android:name=".R9Activity"
+            android:label="@string/n9" />
+        <activity
+            android:name=".R10Activity"
+            android:label="@string/n10" />
+        <activity
+            android:name=".R11Activity"
+            android:label="@string/n11" />
+        <activity
+            android:name=".R12Activity"
+            android:label="@string/n12" />
+        <activity
+            android:name=".R13Activity"
+            android:label="@string/n13" />
+        <activity
+            android:name=".R14Activity"
+            android:label="@string/n14" />
+        <activity
+            android:name=".R15Activity"
+            android:label="@string/n15" />
+        <activity
+            android:name=".R16Activity"
+            android:label="@string/n16" />
+        <activity
+            android:name=".R17Activity"
+            android:label="@string/n17" />
+        <activity
+            android:name=".R18Activity"
+            android:label="@string/n18" />
+        <activity
+            android:name=".R19Activity"
+            android:label="@string/n19" />
+        <activity
+            android:name=".R20Activity"
+            android:label="@string/n20" />
+        <activity
+            android:name=".L1Activity"
+            android:label="Launch Station" />
+    </application>
+
+</manifest>

@@ -1,0 +1,305 @@
+<resources>
+    <string name="app_name">Space Pharaohs</string>
+
+    <string name="n1">Ariane 5 ECA | BepiColombo</string>
+    <string name="n2">Soyuz 2.1b | Lotus-S1</string>
+    <string name="n3">Pegasus XL | ICON</string>
+    <string name="n4">Zhuque-1 | CCTV Future-1</string>
+    <string name="n5">H-IIA 202 | GOSAT 2 &amp; KhalifaSat</string>
+    <string name="n6">Long March 2C | CFOSAT</string>
+    <string name="n7">Long March 11 | CAS-6 &amp; Rideshares</string>
+    <string name="n8">Kuaizhou 11 | Jilin-1 Optical-B &amp; Small Sats</string>
+    <string name="n9">Long March 4B | Haiyang-2B</string>
+    <string name="n10">Soyuz 2.1b/Fregat | GLONASS-M No. 60</string>
+    <string name="n11">Soyuz ST-B/Fregat | MetOp C</string>
+    <string name="n12">Falcon 9 Block 5 | Es\'hail 2</string>
+    <string name="n13">Antares 230 | CRS NG-10E</string>
+    <string name="n14">Falcon 9 Block 5 | Spaceflight SSO-A</string>
+    <string name="n15">Vega | Mohammed VI-B</string>
+    <string name="n16">PSLV-XL | HySIS</string>
+    <string name="n17">Kuaizhou 1A | Unknown Payload</string>
+    <string name="n18">Falcon 9 Block 5 | CRS-16</string>
+    <string name="n19">Delta IV Heavy | NROL-71</string>
+    <string name="n20">Long March 3B/YZ-1 | BeiDou-3 M17 &amp; M18</string>
+
+    <string name="d1">ELA-3, Guiana Space Centre, French Guiana</string>
+    <string name="d2">Site 43/4, Plesetsk Cosmodrome, Russia</string>
+    <string name="d3">Stargazer, Cape Canaveral AFS, Florida</string>
+    <string name="d4">Unknown Pad, Jiuquan Satellite Launch Center, China</string>
+    <string name="d5">LA-Y1, Tanegashima Space Center, Japan</string>
+    <string name="d6">LA-4 (SLS-2), Jiuquan Satellite Launch Center, China</string>
+    <string name="d7">Unknown Pad, Jiuquan Satellite Launch Center, China</string>
+    <string name="d8">LA-4 (SLS-1), Jiuquan Satellite Launch Center, China</string>
+    <string name="d9">LC-9, Taiyuan Satellite Launch Center, China</string>
+    <string name="d10">Site 43/4, Plesetsk Cosmodrome, Russia</string>
+    <string name="d11">ELS, Guiana Space Centre, French Guiana</string>
+    <string name="d12">SLC-40, Cape Canaveral AFS, Florida</string>
+    <string name="d13">LP-0A, Wa AFB, California</string>
+    <string name="d15">ELV-1 (SLllops Flight Facility, Virginia</string>
+    <string name="d14">SLC-4E, VandenbergV), Guiana Space Centre, French Guiana</string>
+    <string name="d16">First Launch Pad, Satish Dhawan Space Centre, India</string>
+    <string name="d17">LA-4 (SLS-2), Jiuquan Satellite Launch Center, China</string>
+    <string name="d18">SLC-40, Cape Canaveral AFS, Florida</string>
+    <string name="d19">SLC-6, Vandenberg AFB, California</string>
+    <string name="d20">Unknown Pad, Xichang Satellite Launch Center, China</string>
+
+    <string name="t1">Sat Oct 20, 2018 01:45 UTC</string>
+    <string name="t2">Oct 25, 2018</string>
+    <string name="t3">Fri Oct 26, 2018 08:00 UTC</string>
+    <string name="t4">Oct 27, 2018</string>
+    <string name="t5">Mon Oct 29, 2018 04:08 UTC</string>
+    <string name="t6">Oct 29, 2018</string>
+    <string name="t7">NET October, 2018</string>
+    <string name="t8">NET October, 2018</string>
+    <string name="t9">NET October, 2018</string>
+    <string name="t10">Nov 03, 2018</string>
+    <string name="t11">Wed Nov 07, 2018 00:47 UTC</string>
+    <string name="t12">Nov 14, 2018</string>
+    <string name="t13">Thu Nov 15, 2018 09:49 UTC</string>
+    <string name="t14">Nov 19, 2018</string>
+    <string name="t15">Nov 20, 2018</string>
+    <string name="t16">Nov 22, 2018</string>
+    <string name="t17">Nov 25, 2018</string>
+    <string name="t18">Tue Nov 27, 2018 21:19 UTC</string>
+    <string name="t19">Nov 29, 2018</string>
+    <string name="t20">NET November, 2018</string>
+
+    <string name="l1">Arianespace\n
+        Status: Active\n
+        Price: $200.0 million\n
+        Liftoff Thrust: 15,120 kN\n
+        Payload to LEO: 21,000 kg\n
+        Payload to GTO: 10,500 kg\n
+        Stages: 2\n
+        Strap-ons: 2\n
+        Rocket Height: 53.0 m\n
+        Fairing Diameter: 5.4 m\n
+        Fairing Height: 17.0 m\n
+    </string>
+
+    <string name="l2">Roscosmos\n
+        Status: Active\n
+        Liftoff Thrust: 4,150 kN\n
+        Stages: 2\n
+        Strap-ons: 4\n
+        Fairing Diameter: 3.7 m\n
+        Fairing Height: 7.7 m\n
+    </string>
+    <string name="l3">Northrop\n
+    Status: Active\n
+    Price: $40.0 million\n
+    Liftoff Thrust: 561 kN\n
+    Payload to LEO: 443 kg\n
+    Stages: 4\n
+    Strap-ons: 0\n
+    Rocket Height: 17.6 m\n
+    Fairing Diameter: 1.27 m\n
+    </string>
+        <string name="l4">Landspace\n
+    Status: Planned\n
+    Liftoff Thrust: 450 kN\n
+    Payload to LEO: 300 kg\n
+    Stages: 3\n
+    Rocket Height: 19.0 m\n
+    </string>
+        <string name="l5">MHI\n
+    Status: Active\n
+    Price: $90.0 million\n
+    Payload to LEO: 10,000 kg\n
+    Payload to GTO: 4,100 kg\n
+    Stages: 2\n
+    Strap-ons: 2\n
+    Rocket Height: 53.0 m\n
+    Fairing Diameter: 4.07 m\n
+    Fairing Height: 12.0 m\n
+    </string>
+        <string name="l6">CASC\n
+    Status: Active\n
+    Liftoff Thrust: 2,962 kN\n
+    Payload to LEO: 3,850 kg\n
+    Payload to GTO: 1,250 kg\n
+    Stages: 2\n
+    Strap-ons: 0\n
+    Rocket Height: 42.0 m\n
+    </string>
+        <string name="l7">CASC\n
+    Status: Active\n
+    Liftoff Thrust: 1,200 kN\n
+    Payload to LEO: 700 kg\n
+    Stages: 4\n
+    Strap-ons: 0\n
+    Rocket Height: 20.8 m\n
+    Fairing Diameter: 2.0 m\n
+    </string>
+        <string name="l8">CASIC\n
+    Status: Active\n
+    Payload to LEO: 1,500 kg\n
+    Strap-ons: 0\n
+    </string>
+        <string name="l9">CASC\n
+    Status: Active\n
+    Liftoff Thrust: 2,971 kN\n
+    Payload to LEO: 4,200 kg\n
+    Payload to GTO: 1,500 kg\n
+    Stages: 3\n
+    Strap-ons: 0\n
+    Rocket Height: 44.1 m\n
+    </string>
+        <string name="l10">Roscosmos\n
+    Status: Active\n
+    Liftoff Thrust: 4,150 kN\n
+    Payload to LEO: 8,200 kg\n
+    Payload to GTO: 3,250 kg\n
+    Stages: 3\n
+    Strap-ons: 4\n
+    Rocket Height: 42.5 m\n
+    Fairing Diameter: 3.7 m\n
+    Fairing Height: 7.7 m\n
+    </string>
+        <string name="l11">Arianespace\n
+    Status: Active\n
+    Liftoff Thrust: 4,150 kN\n
+    Payload to LEO: 8,200 kg\n
+    Payload to GTO: 3,250 kg\n
+    Stages: 3\n
+    Strap-ons: 4\n
+    Rocket Height: 46.2 m\n
+    Fairing Diameter: 4.11 m\n
+    Fairing Height: 11.4 m\n
+    </string>
+        <string name="l12">SpaceX\n
+    Status: Active\n
+    Price: $50.0 million\n
+    Liftoff Thrust: 7,607 kN\n
+    Payload to LEO: 22,800 kg\n
+    Payload to GTO: 8,300 kg\n
+    Stages: 2\n
+    Strap-ons: 0\n
+    Rocket Height: 70.0 m\n
+    Fairing Diameter: 5.2 m\n
+    Fairing Height: 13.0 m\n
+    </string>
+        <string name="l13">Northrop\n
+    Status: Active\n
+    Price: $85.0 million\n
+    Liftoff Thrust: 1,922 kN\n
+    Payload to LEO: 7,000 kg\n
+    Stages: 2\n
+    Strap-ons: 0\n
+    Rocket Height: 41.9 m\n
+    Fairing Diameter: 3.9 m\n
+    Fairing Height: 9.9 m\n
+    </string>
+        <string name="l14">SpaceX\n
+    Status: Active\n
+    Price: $50.0 million\n
+    Liftoff Thrust: 7,607 kN\n
+    Payload to LEO: 22,800 kg\n
+    Payload to GTO: 8,300 kg\n
+    Stages: 2\n
+    Strap-ons: 0\n
+    Rocket Height: 70.0 m\n
+    Fairing Diameter: 5.2 m\n
+    Fairing Height: 13.0 m\n
+    </string>
+        <string name="l15">Arianespace\n
+    Status: Active\n
+    Price: $37.0 million\n
+    Liftoff Thrust: 2,200 kN\n
+    Payload to LEO: 1,436 kg\n
+    Stages: 4\n
+    Strap-ons: 0\n
+    Rocket Height: 29.9 m\n
+    Fairing Diameter: 2.6 m\n
+    Fairing Height: 7.88 m\n
+    </string>
+        <string name="l16">ISRO\n
+    Status: Active\n
+    Price: $31.0 million\n
+    Liftoff Thrust: 7,661 kN\n
+    Payload to LEO: 3,250 kg\n
+    Payload to GTO: 1,410 kg\n
+    Stages: 4\n
+    Strap-ons: 6\n
+    Rocket Height: 44.0 m\n
+    Fairing Diameter: 3.2 m\n
+    Fairing Height: 8.3 m\n
+    </string>
+        <string name="l17">CASIC\n
+    Status: Active\n
+    Payload to LEO: 300 kg\n
+    Stages: 3\n
+    Strap-ons: 0\n
+    Rocket Height: 19.4 m\n
+    Fairing Diameter: 1.4 m\n
+    Fairing Height: 4.0 m\n
+    </string>
+        <string name="l18">SpaceX\n
+    Status: Active\n
+    Price: $50.0 million\n
+    Liftoff Thrust: 7,607 kN\n
+    Payload to LEO: 22,800 kg\n
+    Payload to GTO: 8,300 kg\n
+    Stages: 2\n
+    Strap-ons: 0\n
+    Rocket Height: 70.0 m\n
+    Fairing Diameter: 5.2 m\n
+    Fairing Height: 13.0 m\n
+    </string>
+        <string name="l19">ULA\n
+    Status: Active\n
+    Price: $350.0 million\n
+    Liftoff Thrust: 9,411 kN\n
+    Payload to LEO: 28,370 kg\n
+    Payload to GTO: 13,810 kg\n
+    Stages: 2\n
+    Strap-ons: 2\n
+    Rocket Height: 72.0 m\n
+    Fairing Diameter: 5.1 m\n
+    Fairing Height: 19.1 m\n
+    </string>
+        <string name="l20">CASC\n
+    Status: Active\n
+    Liftoff Thrust: 5,924 kN\n
+    Stages: 4\n
+    Strap-ons: 4\n
+    Fairing Diameter: 4.0 m\n
+    Fairing Height: 9.56 m\n
+    </string>
+
+    <string name="mt1">BepiColombo </string>
+    <string name="m1">BepiColombo is a joint mission of the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) to the planet Mercury. The mission comprises two satellites to be launched together: the Mercury Planetary Orbiter (MPO) and Mio (Mercury Magnetospheric Orbiter, MMO). The mission will perform a comprehensive study of Mercury, including its magnetic field, magnetosphere, interior structure and surface. It is scheduled for an arrival at Mercury in December 2025, after a flyby of Earth, two flybys of Venus, and six flybys of Mercury. The mission was approved in November 2009, after years in proposal and planning as part of the European Space Agency\'s Horizon 2000+ program; it will be the last mission of the program to be launched. </string>
+    <string name="md1">Payloads: 1 Total Mass: 4,100 kg Heliocentric Orbit</string>
+    <string name="mt3">ICON</string>
+    <string name="m3">The Ionospheric Connection Explorer (ICON) is a satellite designed to investigate changes in the Earth\'s ionosphere. ICON will study the interaction between Earth\'s weather systems and space weather driven by the Sun, and how this interaction drives turbulence in the upper atmosphere. It is hoped that a better understanding of this dynamic will mitigate its effects on communications, GPS signals, and technology in general.</string>
+    <string name="md3">Payloads: 1 Total Mass: 291 kg Low Earth Orbit </string>
+    <string name="mt5">GOSAT 2 </string>
+    <string name="m5"> The missions of GOSAT-2 are to continue and enhance spaceborne measurement of major greenhouse gases from space started by GOSAT, to monitor the impacts of climate change and human activities on the carbon cycle, and to contribute to climate science and climate change related policies.</string>
+    <string name="md5">Payloads: 1 Total Mass: 2,000 kg Sun-Synchronous Orbit </string>
+    <string name="mt10">GLONASS-M 759 </string>
+    <string name="m10">GLONASS-M, also known as Uragan-M are the second generation of Uragan satellite design used as part of the Russian GLONASS radio-based satellite navigation system. </string>
+    <string name="md10">Medium Earth Orbit   </string>
+    <string name="mt11">MetOp C </string>
+    <string name="m11">MetOp is a series of three polar orbiting meteorological satellites developed by the European Space Agency (ESA) and operated by the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT). The satellites form the space segment component of the overall EUMETSAT Polar System (EPS), which in turn is the European half of the EUMETSAT/NOAA Initial Joint Polar System (IJPS). The satellites carry a payload comprising 11 scientific instruments and two which support Search and Rescue services. In order to provide data continuity between MetOp and NOAA Polar Operational Satellites (POES), several instruments are carried on both fleets of satellites. </string>
+    <string name="md11">Payloads: 1 Total Mass: 4,093 kg Sun-Synchronous Orbit  </string>
+    <string name="mt12">Es\'hail 2 </string>
+    <string name="m12">Es\'hail 2 is contracted to be built by Japan\'s Mitsubishi Electric company, and will operate at 26 degrees East longitude to provide direct-to-home television services in the Middle East and North Africa region. </string>
+    <string name="md12">Payloads: 1 Geostationary Transfer Orbit  </string>
+    <string name="mt13"> CRS NG-10E</string>
+    <string name="m13">A Northrop Grumman Antares rocket will launch the 11th Cygnus cargo freighter on the 10th operational cargo delivery flight to the International Space Station. The mission is known as NG-10. The rocket will fly in the Antares 230 configuration, with two RD-181 first stage engines and a Castor 30XL second stage. </string>
+    <string name="md13">Payloads: 1 Total Mass: 3,200 kg Low Earth Orbit </string>
+    <string name="mt14">Spaceflight SSO-A </string>
+    <string name="m14">Over a hundred small satellites will launch on Spaceflight Industries custom payload dispenser. The two upper portions of the stack will separate from the top of the Falcon 9\'s second stage before they begin deploying payloads. The bottom of the stack will remain attached to the second stage as it deploys its payloads. </string>
+    <string name="md14">Payloads: 114 Total Mass: 3,000 kg Sun-Synchronous Orbit  </string>
+    <string name="mt18">CRS-16 </string>
+    <string name="m18">SpaceX CRS-16, also known as SpX-16, is a Commercial Resupply Service mission to the International Space Station. The mission was contracted by NASA and is flown by SpaceX. </string>
+    <string name="md18">Payloads: 1 Low Earth Orbit </string>
+    <string name="mt19">NROL-71 </string>
+    <string name="m19">A ULA Delta IV Heavy rocket will launch the NROL-71 payload for the U.S. National Reconnaissance Office. NROL-71 is most likely a Keyhole KH-11 image reconnaissance satellite. </string>
+    <string name="md19">Payloads: 1  </string>
+    <string name="mt20"> BeiDou-3 M17 &amp; M18</string>
+    <string name="m20">BeiDou-3 will eventually consist of 35 satellites and is expected to provide global services upon completion in 2020. When fully completed, BeiDou will provide an alternative global navigation satellite system to the United States owned Global Positioning System (GPS), and is expected to be more accurate than the GPS. It was claimed in 2016 that BeiDou-3 will reach millimeter-level accuracy (with post-processing), which is ten times more accurate than the finest level of GPS. </string>
+    <string name="md20">Payloads: 2 Medium Earth Orbit </string>
+
+
+</resources>
